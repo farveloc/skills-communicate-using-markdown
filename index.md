@@ -7,3 +7,7 @@
 
 *I've added these 6 different text treatment while doing the "Communicate Using Markdown" course.*
 ![Image of Spidertocat](https://octodex.github.com/images/spidertocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
